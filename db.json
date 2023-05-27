@@ -8,7 +8,7 @@
       "profession": "Web Developer",
       "skills": ["HTML", "CSS", "JavaScript"],
       "hourly_rate": 25,
-      "profile_picture": "profile1.jpg",
+      "profile_picture": "https://www.shutterstock.com/image-vector/male-figure-man-boy-profile-600w-1647374107.jpg",
       "isBooked": false
     },
     {
@@ -18,9 +18,53 @@
       "password": "password",
       "profession": "Graphic Designer",
       "skills": ["Photoshop", "Illustrator"],
-      "hourly_rate": 30,
-      "profile_picture": "profile2.jpg",
+      "hourly_rate": 100,
+      "profile_picture": "https://www.shutterstock.com/image-vector/male-figure-man-boy-profile-600w-1647374107.jpg",
       "isBooked": true
+    },
+    {
+      "id": 3,
+      "name": "Pulkit",
+      "email": "pulkit@example.com",
+      "password": "password",
+      "profession": "Student",
+      "skills": ["Photoshop", "Illustrator"],
+      "hourly_rate": 50,
+      "profile_picture": "https://www.shutterstock.com/image-vector/male-figure-man-boy-profile-600w-1647374107.jpg",
+      "isBooked": true
+    },
+    {
+      "id": 4,
+      "name": "Vivek",
+      "email": "vivek@example.com",
+      "password": "password",
+      "profession": "Graphic Designer",
+      "skills": ["Photoshop", "Illustrator"],
+      "hourly_rate": 30,
+      "profile_picture": "https://www.shutterstock.com/image-vector/male-figure-man-boy-profile-600w-1647374107.jpg",
+      "isBooked": false
+    },
+    {
+      "id": 5,
+      "name": "Chandra",
+      "email": "chandra@example.com",
+      "password": "password",
+      "profession": "Student",
+      "skills": ["Photoshop", "Illustrator"],
+      "hourly_rate": 70,
+      "profile_picture": "https://www.shutterstock.com/image-vector/male-figure-man-boy-profile-600w-1647374107.jpg",
+      "isBooked": true
+    },
+    {
+      "id": 6,
+      "name": "Albert",
+      "email": "albert@example.com",
+      "password": "password",
+      "profession": "Web Developer",
+      "skills": ["Photoshop", "Illustrator"],
+      "hourly_rate": 60,
+      "profile_picture": "https://www.shutterstock.com/image-vector/male-figure-man-boy-profile-600w-1647374107.jpg",
+      "isBooked": false
     }
   ]
 }
